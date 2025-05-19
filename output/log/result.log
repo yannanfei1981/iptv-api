@@ -1,5 +1,2 @@
-Name: 深圳卫视, URL: http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-沈阳, ISP: 联通, Date: None, Delay: 10744 ms, Speed: 0.89 M/s, Resolution: 1920x1080
-Name: 荆门新闻综合, URL: http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD], IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 2289 ms, Speed: 0.47 M/s, Resolution: 1920x1080
-Name: 荆门新闻综合, URL: https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 2247 ms, Speed: 0.42 M/s, Resolution: 1920x1080
-Name: 长子综合, URL: rtmp://zzlive.zzc-media.com/live/xwzh, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 1000 ms, Speed: 0.00 M/s, Resolution: None
-Name: 七龙珠, URL: http://www.douzhicloud.site:35455/huya/11601966, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 432 ms, Speed: 0.34 M/s, Resolution: 960x720
+Name: 长子综合, URL: rtmp://zzlive.zzc-media.com/live/xwzh, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 772 ms, Speed: 0.00 M/s, Resolution: None
+Name: 七龙珠, URL: http://www.douzhicloud.site:35455/huya/11601966, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 459 ms, Speed: 0.26 M/s, Resolution: 960x720
