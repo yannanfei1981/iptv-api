@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-20 06:43:01,rtmp://zzlive.zzc-media.com/live/xwzh
+2025-05-20 18:49:29,rtmp://zzlive.zzc-media.com/live/xwzh
 
 💰央视付费频道,#genre#
 
@@ -45,7 +45,6 @@
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 
 🎮游戏频道,#genre#
 
