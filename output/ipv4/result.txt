@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-05 18:50:59,rtmp://zzlive.zzc-media.com/live/xwzh
+2025-06-06 06:42:11,rtmp://zzlive.zzc-media.com/live/xwzh
 
 💰央视付费频道,#genre#
 
@@ -49,3 +49,5 @@
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
