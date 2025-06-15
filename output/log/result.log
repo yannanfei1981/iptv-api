@@ -1,2 +1,4 @@
-Name: 长子综合, URL: rtmp://zzlive.zzc-media.com/live/xwzh, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 766 ms, Speed: 0.00 M/s, Resolution: None
-Name: 蜡笔小新, URL: http://www.douzhicloud.site:35455/bilibili/30837590, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 26 ms, Speed: 17.59 M/s, Resolution: 1920x1080
+Name: 西藏卫视, URL: http://fn.tmde.top:35455/nptv/xizang.m3u8, IPv_Type: ipv4, Location: 中国-吉林-长春, ISP: 联通, Date: None, Delay: 10277 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 云南卫视, URL: http://fn.tmde.top:35455/nptv/yunnan.m3u8, IPv_Type: ipv4, Location: 中国-吉林-长春, ISP: 联通, Date: None, Delay: 10040 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 长子综合, URL: rtmp://zzlive.zzc-media.com/live/xwzh, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 741 ms, Speed: 0.00 M/s, Resolution: None
+Name: 蜡笔小新, URL: http://www.douzhicloud.site:35455/bilibili/30837590, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 53 ms, Speed: 8.35 M/s, Resolution: 1920x1080
