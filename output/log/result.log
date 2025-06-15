@@ -1,4 +1,6 @@
-Name: 西藏卫视, URL: http://fn.tmde.top:35455/nptv/xizang.m3u8, IPv_Type: ipv4, Location: 中国-吉林-长春, ISP: 联通, Date: None, Delay: 10277 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 云南卫视, URL: http://fn.tmde.top:35455/nptv/yunnan.m3u8, IPv_Type: ipv4, Location: 中国-吉林-长春, ISP: 联通, Date: None, Delay: 10040 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 长子综合, URL: rtmp://zzlive.zzc-media.com/live/xwzh, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 741 ms, Speed: 0.00 M/s, Resolution: None
-Name: 蜡笔小新, URL: http://www.douzhicloud.site:35455/bilibili/30837590, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 53 ms, Speed: 8.35 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://fn.tmde.top:35455/mgtv/624878396.m3u8, IPv_Type: ipv4, Location: 中国-吉林-长春, ISP: 联通, Date: None, Delay: 10538 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: http://fn.tmde.top:35455/mgtv/624878440.m3u8, IPv_Type: ipv4, Location: 中国-吉林-长春, ISP: 联通, Date: None, Delay: 1591 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 长子综合, URL: rtmp://zzlive.zzc-media.com/live/xwzh, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 267 ms, Speed: 0.00 M/s, Resolution: None
+Name: CHC家庭影院, URL: http://fn.tmde.top:35455/mgtv/644368373.m3u8, IPv_Type: ipv4, Location: 中国-吉林-长春, ISP: 联通, Date: None, Delay: 10317 ms, Speed: 0.00 M/s, Resolution: None
+Name: CHC动作电影, URL: http://fn.tmde.top:35455/mgtv/644368714.m3u8, IPv_Type: ipv4, Location: 中国-吉林-长春, ISP: 联通, Date: None, Delay: 1605 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 蜡笔小新, URL: http://www.douzhicloud.site:35455/bilibili/30837590, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 32 ms, Speed: 12.56 M/s, Resolution: 1920x1080
