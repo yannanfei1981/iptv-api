@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-06-16 06:15:13,http://fn.tmde.top:35455/mgtv/624878396.m3u8
+2025-06-16 18:19:08,http://fn.tmde.top:35455/mgtv/624878440.m3u8
 
 📺央视频道,#genre#
-CCTV-6,http://fn.tmde.top:35455/mgtv/624878396.m3u8
 CCTV-14,http://fn.tmde.top:35455/mgtv/624878440.m3u8
 
 💰央视付费频道,#genre#
@@ -45,12 +44,12 @@ CCTV-14,http://fn.tmde.top:35455/mgtv/624878440.m3u8
 ☘️云南频道,#genre#
 
 🎬电影频道,#genre#
-CHC家庭影院,http://fn.tmde.top:35455/mgtv/644368373.m3u8
 CHC动作电影,http://fn.tmde.top:35455/mgtv/644368714.m3u8
 
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
