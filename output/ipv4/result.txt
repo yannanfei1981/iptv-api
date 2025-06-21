@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-21 06:13:45,http://www.douzhicloud.site:35455/bilibili/30837590
+2025-06-21 18:14:42,rtmp://zzlive.zzc-media.com/live/xwzh
 
 💰央视付费频道,#genre#
 
@@ -27,11 +27,14 @@
 
 ☘️福建频道,#genre#
 
+☘️河南频道,#genre#
+
 ☘️新疆频道,#genre#
 
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
+长子综合,rtmp://zzlive.zzc-media.com/live/xwzh
 
 ☘️安徽频道,#genre#
 
@@ -44,7 +47,6 @@
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
 
