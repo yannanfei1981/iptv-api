@@ -1,9 +1,26 @@
 🕘️更新时间,#genre#
-2025-06-25 18:17:36,rtmp://zzlive.zzc-media.com/live/xwzh
+2025-06-26 06:15:32,http://fn.tmde.top:35455/nptv/guangdong.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+广东卫视,http://fn.tmde.top:35455/nptv/guangdong.m3u8
+北京卫视,http://fn.tmde.top:35455/nptv/beijing.m3u8
+湖北卫视,http://fn.tmde.top:35455/nptv/hubei.m3u8
+安徽卫视,http://fn.tmde.top:35455/nptv/anhui.m3u8
+东方卫视,http://fn.tmde.top:35455/nptv/dongfang.m3u8
+东南卫视,http://fn.tmde.top:35455/nptv/dongnan.m3u8
+甘肃卫视,http://fn.tmde.top:35455/nptv/gansu.m3u8
+贵州卫视,http://fn.tmde.top:35455/nptv/guizhou.m3u8
+海南卫视,http://fn.tmde.top:35455/nptv/hainan.m3u8
+河南卫视,http://fn.tmde.top:35455/nptv/henan.m3u8
+辽宁卫视,http://fn.tmde.top:35455/nptv/liaoning.m3u8
+内蒙古卫视,http://fn.tmde.top:35455/nptv/neimenggu.m3u8
+宁夏卫视,http://fn.tmde.top:35455/nptv/ningxia.m3u8
+青海卫视,http://fn.tmde.top:35455/nptv/qinghai.m3u8
+山东卫视,http://fn.tmde.top:35455/nptv/shandong.m3u8
+陕西卫视,http://fn.tmde.top:35455/nptv/shanxiws.m3u8
+新疆卫视,http://fn.tmde.top:35455/nptv/xinjiang.m3u8
 
 ☘️广东频道,#genre#
 
@@ -45,7 +62,6 @@
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
