@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2025-06-27 18:15:03,rtmp://zzlive.zzc-media.com/live/xwzh
+2025-06-28 06:15:05,http://fn.tmde.top:35455/nptv/sichuan.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+四川卫视,http://fn.tmde.top:35455/nptv/sichuan.m3u8
 
 ☘️广东频道,#genre#
 
