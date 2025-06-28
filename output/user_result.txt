@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-06-28 06:15:05,http://fn.tmde.top:35455/nptv/sichuan.m3u8
+2025-06-28 18:15:44,rtmp://zzlive.zzc-media.com/live/xwzh
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-四川卫视,http://fn.tmde.top:35455/nptv/sichuan.m3u8
 
 ☘️广东频道,#genre#
 
@@ -46,7 +45,6 @@
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
 
