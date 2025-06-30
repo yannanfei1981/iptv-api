@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-30 18:16:12,rtmp://tv.loulannews.cn/channellive/ch1
+2025-07-01 06:15:00,http://www.douzhicloud.site:35455/bilibili/30837590
 
 💰央视付费频道,#genre#
 
@@ -28,12 +28,10 @@
 ☘️福建频道,#genre#
 
 ☘️新疆频道,#genre#
-巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-长子综合,rtmp://zzlive.zzc-media.com/live/xwzh
 
 ☘️安徽频道,#genre#
 
