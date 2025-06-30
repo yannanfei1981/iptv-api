@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-30 06:13:22,rtmp://zzlive.zzc-media.com/live/xwzh
+2025-06-30 18:16:12,rtmp://tv.loulannews.cn/channellive/ch1
 
 💰央视付费频道,#genre#
 
@@ -28,6 +28,7 @@
 ☘️福建频道,#genre#
 
 ☘️新疆频道,#genre#
+巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
 ☘️山东频道,#genre#
 
