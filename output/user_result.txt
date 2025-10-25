@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2025-10-25 18:14:48,http://live.daningtv.com/aac_dngb/playlist.m3u8
+2025-10-26 06:13:18,http://114.252.126.226:8899/hls/16/index.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+北京卫视,http://114.252.126.226:8899/hls/16/index.m3u8
 
 ☘️广东频道,#genre#
 
@@ -34,7 +35,6 @@
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-大宁综合,http://live.daningtv.com/aac_dngb/playlist.m3u8
 
 ☘️安徽频道,#genre#
 
