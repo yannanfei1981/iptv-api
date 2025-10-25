@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-25 06:13:59,http://www.douzhicloud.site:35455/bilibili/30837590
+2025-10-25 18:14:48,http://live.daningtv.com/aac_dngb/playlist.m3u8
 
 💰央视付费频道,#genre#
 
@@ -34,6 +34,7 @@
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
+大宁综合,http://live.daningtv.com/aac_dngb/playlist.m3u8
 
 ☘️安徽频道,#genre#
 
