@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-06 18:17:34,url
+2025-11-07 06:13:44,http://www.douzhicloud.site:35455/bilibili/30837590
 
 💰央视付费频道,#genre#
 
@@ -46,6 +46,7 @@
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
 
