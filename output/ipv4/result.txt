@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-12 18:17:15,http://www.douzhicloud.site:35455/bilibili/30837590
+2025-11-13 06:14:13,http://www.douzhicloud.site:35455/bilibili/30837590
 
 💰央视付费频道,#genre#
 
@@ -51,3 +51,7 @@
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
+天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
+鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
