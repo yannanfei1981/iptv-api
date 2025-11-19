@@ -1,5 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-19 06:15:50,http://www.douzhicloud.site:35455/bilibili/30837590
+2025-11-19 18:19:02,http://www.douzhicloud.site:35455/bilibili/30837590
+
+📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
@@ -16,6 +18,10 @@
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
+
+☘️辽宁频道,#genre#
+
+☘️湖南频道,#genre#
 
 ☘️湖北频道,#genre#
 
@@ -40,6 +46,8 @@
 ☘️吉林频道,#genre#
 
 ☘️云南频道,#genre#
+
+☘️青海频道,#genre#
 
 🎬电影频道,#genre#
 
