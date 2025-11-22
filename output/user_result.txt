@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-22 18:14:27,http://www.douzhicloud.site:35455/bilibili/30837590
+2025-11-23 06:12:45,http://60.16.0.216:5757/hls/22/index.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8
 
 ☘️广东频道,#genre#
 
