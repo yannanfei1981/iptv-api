@@ -1,7 +1,3 @@
-Name: 叙永综合, URL: rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 523 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘娱乐, URL: http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-大连, ISP: 联通数据中心, Date: None, Delay: 4659 ms, Speed: 3.07 M/s, Resolution: 1920x1080
-Name: NewTV动作电影, URL: http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-大连, ISP: 联通数据中心, Date: None, Delay: 2623 ms, Speed: 2.09 M/s, Resolution: 1920x1080
-Name: NewTV动作电影, URL: http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-大连, ISP: 联通数据中心, Date: None, Delay: 4541 ms, Speed: 1.64 M/s, Resolution: 1920x1080
-Name: 睛彩广场舞, URL: http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-大连, ISP: 联通数据中心, Date: None, Delay: 2459 ms, Speed: 2.50 M/s, Resolution: 1920x1080
-Name: 七龙珠, URL: http://www.douzhicloud.site:35455/huya/11601966, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 348 ms, Speed: 0.27 M/s, Resolution: 960x720
-Name: 蜡笔小新, URL: http://www.douzhicloud.site:35455/bilibili/30837590, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 110 ms, Speed: 3.70 M/s, Resolution: 1920x1080
+Name: 叙永综合, URL: rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 583 ms, Speed: 0.00 M/s, Resolution: None
+Name: 七龙珠, URL: http://www.douzhicloud.site:35455/huya/11601966, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 299 ms, Speed: 0.27 M/s, Resolution: 960x720
+Name: 蜡笔小新, URL: http://www.douzhicloud.site:35455/bilibili/30837590, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 41 ms, Speed: 10.45 M/s, Resolution: 1920x1080
