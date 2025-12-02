@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-02 18:16:31,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2025-12-03 06:14:09,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 💰央视付费频道,#genre#
 
@@ -45,7 +45,6 @@
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-睛彩广场舞,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/.m3u8
 
 🪁动画频道,#genre#
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
