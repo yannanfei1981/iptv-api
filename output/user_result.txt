@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-12 18:16:50,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2025-12-13 06:14:35,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 💰央视付费频道,#genre#
 
@@ -35,7 +35,6 @@
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-大宁综合,http://live.daningtv.com/tv/playlist.m3u8
 
 ☘️安徽频道,#genre#
 
