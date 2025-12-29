@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-29 06:14:00,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2025-12-29 18:17:42,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 💰央视付费频道,#genre#
 
@@ -42,11 +42,15 @@
 
 ☘️云南频道,#genre#
 
+☘️黑龙江频道,#genre#
+七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
