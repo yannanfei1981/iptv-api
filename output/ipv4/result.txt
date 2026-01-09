@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-09 06:14:32,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2026-01-09 18:16:21,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 💰央视付费频道,#genre#
 
@@ -37,6 +37,7 @@
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
+安徽影视,https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
 
 ☘️吉林频道,#genre#
 
