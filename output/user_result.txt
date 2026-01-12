@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-12 18:18:43,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
+2026-01-13 06:13:48,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 💰央视付费频道,#genre#
 
@@ -22,7 +22,6 @@
 ☘️广西频道,#genre#
 
 ☘️天津频道,#genre#
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
