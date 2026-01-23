@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-23 06:15:50,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2026-01-23 18:17:53,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 💰央视付费频道,#genre#
 
@@ -31,6 +31,8 @@
 ☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
+可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
 ☘️山东频道,#genre#
 
