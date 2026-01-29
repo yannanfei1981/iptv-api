@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-29 06:18:27,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2026-01-29 18:28:07,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 💰央视付费频道,#genre#
 
@@ -16,6 +16,8 @@
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
+
+☘️湖南频道,#genre#
 
 ☘️湖北频道,#genre#
 
@@ -39,11 +41,6 @@
 ☘️吉林频道,#genre#
 
 ☘️内蒙古频道,#genre#
-内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
-内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
-内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
-内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 
 ☘️云南频道,#genre#
 易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
@@ -55,7 +52,6 @@
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
