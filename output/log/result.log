@@ -1,7 +1,5 @@
-Name: 叙永综合, URL: rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 320 ms, Speed: 0.00 M/s, Resolution: None
-Name: 大宁综合, URL: http://live.daningtv.com/aac_dngb/playlist.m3u8, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 1133 ms, Speed: 0.07 M/s, Resolution: None
-Name: 大宁综合, URL: http://live.daningtv.com/tv/playlist.m3u8, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 953 ms, Speed: 0.03 M/s, Resolution: 10x10
-Name: 易门综合, URL: https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-沈阳, ISP: 联通, Date: None, Delay: 1704 ms, Speed: 0.66 M/s, Resolution: 1920x1080
-Name: 通海电视台, URL: https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-沈阳, ISP: 联通, Date: None, Delay: 1881 ms, Speed: 0.81 M/s, Resolution: 1920x1080
-Name: 陇川综合, URL: https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-沈阳, ISP: 联通, Date: None, Delay: 2164 ms, Speed: 1.11 M/s, Resolution: 1920x1080
-Name: 蜡笔小新, URL: http://www.douzhicloud.site:35455/bilibili/30837590, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 22 ms, Speed: 19.88 M/s, Resolution: 1920x1080
+Name: 叙永综合, URL: rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 384 ms, Speed: 0.00 M/s, Resolution: None
+Name: 易门综合, URL: https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-沈阳, ISP: 联通, Date: None, Delay: 1582 ms, Speed: 0.16 M/s, Resolution: 1920x1080
+Name: 通海电视台, URL: https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-沈阳, ISP: 联通, Date: None, Delay: 1439 ms, Speed: 0.14 M/s, Resolution: 1920x1080
+Name: 陇川综合, URL: https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-沈阳, ISP: 联通, Date: None, Delay: 2170 ms, Speed: 0.53 M/s, Resolution: 1920x1080
+Name: 蜡笔小新, URL: http://www.douzhicloud.site:35455/bilibili/30837590, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 28 ms, Speed: 16.98 M/s, Resolution: 1920x1080
