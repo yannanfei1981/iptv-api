@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-28 18:16:22,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2026-03-01 06:14:28,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 💰央视付费频道,#genre#
 
@@ -33,7 +33,6 @@
 ☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
-可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 
 ☘️山东频道,#genre#
 
@@ -51,7 +50,6 @@
 陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 
 🎬电影频道,#genre#
-无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
 
