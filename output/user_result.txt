@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-25 06:53:50,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2026-07-25 19:03:21,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 💰央视付费频道,#genre#
 
@@ -35,7 +35,6 @@
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 
 ☘️安徽频道,#genre#
 
