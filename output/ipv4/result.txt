@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-27 10:23:59,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+2026-08-28 04:05:17,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 💰央视付费频道,#genre#
 
@@ -38,6 +38,7 @@
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
+定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 
